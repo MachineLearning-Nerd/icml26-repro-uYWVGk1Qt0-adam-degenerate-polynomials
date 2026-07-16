@@ -13,38 +13,6 @@
     "icml2026-repro",
     "paper-uYWVGk1Qt0"
   ],
-  "local_path_artifacts": [
-    {
-      "path": "outputs/hitting_times.csv",
-      "abs_path": "/home/dineshai/Drives/Code/AllCode/ReproduceICML/papers/icml26-repro-uYWVGk1Qt0-adam-degenerate-polynomials/outputs/hitting_times.csv",
-      "size": 1492,
-      "artifact_type": "dataset"
-    },
-    {
-      "path": "outputs/gd_momentum_power_laws.csv",
-      "abs_path": "/home/dineshai/Drives/Code/AllCode/ReproduceICML/papers/icml26-repro-uYWVGk1Qt0-adam-degenerate-polynomials/outputs/gd_momentum_power_laws.csv",
-      "size": 763,
-      "artifact_type": "dataset"
-    },
-    {
-      "path": "outputs/decoupling.csv",
-      "abs_path": "/home/dineshai/Drives/Code/AllCode/ReproduceICML/papers/icml26-repro-uYWVGk1Qt0-adam-degenerate-polynomials/outputs/decoupling.csv",
-      "size": 567,
-      "artifact_type": "dataset"
-    },
-    {
-      "path": "outputs/adam_linear_rates.csv",
-      "abs_path": "/home/dineshai/Drives/Code/AllCode/ReproduceICML/papers/icml26-repro-uYWVGk1Qt0-adam-degenerate-polynomials/outputs/adam_linear_rates.csv",
-      "size": 548,
-      "artifact_type": "dataset"
-    },
-    {
-      "path": "outputs/rmsprop_control.csv",
-      "abs_path": "/home/dineshai/Drives/Code/AllCode/ReproduceICML/papers/icml26-repro-uYWVGk1Qt0-adam-degenerate-polynomials/outputs/rmsprop_control.csv",
-      "size": 87,
-      "artifact_type": "dataset"
-    }
-  ],
   "autosync": false,
   "private": false,
   "local_dashboards": {},

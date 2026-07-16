@@ -9,4 +9,5 @@
 - Trackio: https://huggingface.co/spaces/DineshAI/uYWVGk1Qt0
 - Space SHA: `ac1e0022356cb8e41877874c6797ff64f8145538`
 - Artifact bucket: `DineshAI/uYWVGk1Qt0-artifacts`
-- Next: publish the public GitHub mirror and await official verdict
+- GitHub: https://github.com/MachineLearning-Nerd/icml26-repro-uYWVGk1Qt0-adam-degenerate-polynomials
+- Next: await official verdict
