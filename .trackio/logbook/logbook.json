@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "title": "Repro - Adam on Highly Degenerate Polynomials",
+  "emoji": "🎯",
+  "space_id": "DineshAI/uYWVGk1Qt0",
+  "paper": {
+    "arxiv_id": "2603.09581"
+  },
+  "tags": [
+    "icml2026-repro",
+    "paper-uYWVGk1Qt0"
+  ],
+  "updated_at": "2026-07-16T16:30:49+00:00",
+  "root": {
+    "slug": "index",
+    "title": "Repro - Adam on Highly Degenerate Polynomials",
+    "file": "pages/index.md",
+    "children": [
+      {
+        "slug": "adam-degenerate-polynomials-repro",
+        "title": "adam-degenerate-polynomials-repro",
+        "file": "pages/adam-degenerate-polynomials-repro/page.md",
+        "children": []
+      },
+      {
+        "slug": "00-scored-evidence-summary",
+        "title": "00 - Scored evidence summary",
+        "file": "pages/00-scored-evidence-summary/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-1-linear-versus-sublinear",
+        "title": "Claim 1 - Linear versus sublinear",
+        "file": "pages/claim-1-linear-versus-sublinear/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-2-second-moment-decoupling",
+        "title": "Claim 2 - Second-moment decoupling",
+        "file": "pages/claim-2-second-moment-decoupling/page.md",
+        "children": []
+      },
+      {
+        "slug": "methods-provenance-and-tests",
+        "title": "Methods, provenance, and tests",
+        "file": "pages/methods-provenance-and-tests/page.md",
+        "children": []
+      },
+      {
+        "slug": "limitations-and-negative-controls",
+        "title": "Limitations and negative controls",
+        "file": "pages/limitations-and-negative-controls/page.md",
+        "children": []
+      },
+      {
+        "slug": "conclusion",
+        "title": "Conclusion",
+        "file": "pages/conclusion/page.md",
+        "children": []
+      }
+    ]
+  },
+  "agent_view_tokens": 2756,
+  "revision": "1784219449135534013"
+}
