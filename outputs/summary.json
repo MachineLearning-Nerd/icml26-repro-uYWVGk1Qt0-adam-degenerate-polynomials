@@ -9,7 +9,7 @@
   ],
   "max_adam_relative_slope_error": 8.572804240376117e-05,
   "min_adam_r2": 0.9999998729907293,
-  "max_slow_exponent_abs_error": 0.00028454344167794243,
+  "max_slow_exponent_abs_error": 0.0002845434416778314,
   "max_v_ratio_abs_error": 0.0,
-  "max_decoupling_relative_error": 2.868469474185489e-15
+  "max_decoupling_relative_error": 4.207088562138717e-15
 }
