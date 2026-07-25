@@ -1,6 +1,8 @@
 {
   "claim_1": "verified",
   "claim_2": "verified",
+  "claim_5": "verified",
+  "claim_6": "verified",
   "degrees": [
     4,
     6,
@@ -11,5 +13,67 @@
   "min_adam_r2": 0.9999998729907293,
   "max_slow_exponent_abs_error": 0.0002845434416778314,
   "max_v_ratio_abs_error": 0.0,
-  "max_decoupling_relative_error": 4.207088562138717e-15
+  "max_decoupling_relative_error": 4.207088562138717e-15,
+  "claim_5_regimes": [
+    {
+      "regime": "I_stable",
+      "theoretical_regime": "I_stable",
+      "beta1": 0.9,
+      "beta2": 0.93,
+      "stable_bound": 0.93,
+      "exist_bound": 0.9470266737385726,
+      "min_loss": 0.0,
+      "final_loss": 0.0,
+      "spike_ratio": 0.0,
+      "tail_coupling_ratio": 0.003458498023715415,
+      "steps": 100000
+    },
+    {
+      "regime": "II_spike",
+      "theoretical_regime": "II_spike",
+      "beta1": 0.94,
+      "beta2": 0.93,
+      "stable_bound": 0.93,
+      "exist_bound": 0.9470266737385726,
+      "min_loss": 1.6916745903278437e-33,
+      "final_loss": 1.477901812194332e-17,
+      "spike_ratio": 8736324471882722.0,
+      "tail_coupling_ratio": 9.531179202483008,
+      "steps": 100000
+    },
+    {
+      "regime": "III_signgd",
+      "theoretical_regime": "III_signgd",
+      "beta1": 0.99,
+      "beta2": 0.93,
+      "stable_bound": 0.93,
+      "exist_bound": 0.9470266737385726,
+      "min_loss": 7.1719776149347385e-31,
+      "final_loss": 9.601974988255078e-12,
+      "spike_ratio": 1.3388183153639766e+19,
+      "tail_coupling_ratio": 3.2818133705425114,
+      "steps": 100000
+    }
+  ],
+  "claim_6_boundary_metrics": {
+    "4": {
+      "classification_accuracy": 0.5676,
+      "i_vs_noni_accuracy": 0.9996,
+      "boundary_mean_rel_error": 0.05051448427982396,
+      "boundary_max_rel_error": 0.16608996539792376,
+      "control_wrong_exp_mean_rel_error": 0.3230528978372081,
+      "control_wrong_exp_max_rel_error": 0.8585786437626904
+    },
+    "6": {
+      "classification_accuracy": 0.5748,
+      "i_vs_noni_accuracy": 0.9964,
+      "boundary_mean_rel_error": 0.0332430243174698,
+      "boundary_max_rel_error": 0.14633717913934446,
+      "control_wrong_exp_mean_rel_error": 0.18710980386691142,
+      "control_wrong_exp_max_rel_error": 0.5815082315426555,
+      "control_k4_exp_mean_rel_error": 0.2610387234945832,
+      "control_k4_exp_max_rel_error": 0.8304498269896192
+    }
+  },
+  "signgd_threshold": 1.5625000000000003e-14
 }
